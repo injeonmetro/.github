@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="350" src="ITC_logo_metro.png" alt="인전메트로">
+	<img width="350" src="https://github.com/injeonmetro/.github/raw/main/profile/ITC_logo_metro.png" alt="인전메트로">
 	<br>
 	<br>
 	<h1>인전메트로</h1>
